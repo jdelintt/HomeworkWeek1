@@ -182,11 +182,13 @@ p {
 .online-reputation-management h2 {
   margin-bottom: 20px;
   font-size: 36px;
+  float: right;
 }
 
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
+  float: left;
 }
 
 footer {
